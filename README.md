@@ -1,4 +1,4 @@
-This probably already exists, but i didn't find it... and i was bored
+This probably already exists, but i didn't find it, and... i was bored
 
 Uses Scryfall's api
 
