@@ -15,7 +15,9 @@ Princess 5
 ```
 
 run `npm i` to install the dependencies
+
 run `npm i ts-node` if you dont have it global
+
 then run `npm start` after filling the list
 
 ## Result
