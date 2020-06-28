@@ -1,0 +1,17 @@
+{
+  "name": "magic-translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@types/node": "^14.0.14",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
